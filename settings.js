@@ -31,7 +31,7 @@ global.packname = "𓅓•"
 global.author = "𝐀𝐧𝐭𝐢𝐬𝐨𝐜𝐢𝐚𝐥 𝐇𝐮𝐦𝐢𝐝𝐢𝐭𝐲•𓅓"
 global.creator = "2348022159244@s.whatsapp.net"
 global.xprefix = '!'
-global.premium = ["233246274343"] // Premium User
+global.premium = ["2348022159244,2348107582855"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -39,11 +39,11 @@ global.typemenu = 'v8' // menu type 'v1' => 'v8'
 global.typereply = 'v2' // reply type 'v1' => 'v3'
 global.autoblocknumber = '212' //set autoblock country code
 global.antiforeignnumber = '212' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
-global.anticall = false //bot blocks user when called
+global.welcome = true //welcome/left in groups
+global.anticall = true //bot blocks user when called
 global.autoswview = true //auto status/story view
-global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.adminevent = true //show promote/demote message
+global.groupevent = true //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
