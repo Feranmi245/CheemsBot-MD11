@@ -30,7 +30,7 @@ global.botscript = 'https://github.com/Olamuyiwa63/CheemsBot-MD11' //script link
 global.packname = "𓅓•"
 global.author = "𝐀𝐧𝐭𝐢𝐬𝐨𝐜𝐢𝐚𝐥 𝐇𝐮𝐦𝐢𝐝𝐢𝐭𝐲•𓅓"
 global.creator = "2348022159244@s.whatsapp.net"
-global.xprefix = ' '
+global.xprefix = '.'
 global.premium = ["2348022159244,2348107582855"] // Premium User
 global.hituet = 0
 
